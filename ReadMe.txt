@@ -1,0 +1,1 @@
+2-9 arasý ve 16 lýk tabandaki sayýlarý 10 luk tabana dönüþtüren C dilinde yazdýðým program.
